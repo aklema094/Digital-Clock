@@ -20,6 +20,6 @@ HTML, CSS, JavaScript
 ## 📥 Download & Installation  
 Clone the repository using Git:  
 ```bash
-git clone https://github.com/aklema094/Digital-Clock.git
+git clone https://github.com/luminous44/Digital-Clock.git
 ```  
-Or download the ZIP file manually from [here](https://github.com/aklema094/Digital-Clock/archive/refs/heads/main.zip).  
+Or download the ZIP file manually from [here](https://github.com/luminous44/Digital-Clock/archive/refs/heads/main.zip).  
